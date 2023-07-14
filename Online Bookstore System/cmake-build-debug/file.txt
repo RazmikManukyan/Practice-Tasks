@@ -1,0 +1,1 @@
+Customer: John Doe| Total cost: 25.280000
