@@ -1,0 +1,3 @@
+/Users/cod_republic_lab/CLionProjects/Food Order Management System/cmake-build-debug/CMakeFiles/Food_Order_Management_System.dir
+/Users/cod_republic_lab/CLionProjects/Food Order Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cod_republic_lab/CLionProjects/Food Order Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

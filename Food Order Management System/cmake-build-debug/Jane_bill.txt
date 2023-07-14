@@ -1,0 +1,7 @@
+Bill for Order
+---------------
+Customer name: Jane
+Orders item: 
+Item: Item3
+Total amount: $12
+
