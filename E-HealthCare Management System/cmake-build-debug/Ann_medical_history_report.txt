@@ -1,0 +1,6 @@
+Medical History Report for Patient: Ann
+Date of Birth: 1990
+Gender: Male
+Contact Info: ann@example.com
+Medical Conditions: 
+
