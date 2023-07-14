@@ -1,0 +1,21 @@
+Name:
+Pasta
+Ingredients:
+Pasta
+Tomato Sauce
+Cheese
+Instructions:
+1. Cook pasta.
+2. Heat tomato sauce.
+3. Combine pasta, sauce, and cheese.
+-----------------------------
+Name:
+Salad
+Ingredients:
+Lettuce
+Tomatoes
+Cucumber
+Instructions:
+1. Chop lettuce, tomatoes, and cucumber.
+2. Mix them together.
+-----------------------------

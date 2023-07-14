@@ -1,0 +1,3 @@
+/Users/cod_republic_lab/CLionProjects/Recipe Finder/cmake-build-debug/CMakeFiles/Recipe_Finder.dir
+/Users/cod_republic_lab/CLionProjects/Recipe Finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cod_republic_lab/CLionProjects/Recipe Finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
