@@ -1,0 +1,5 @@
+Ticket Details
+---------------------------
+Movie Title: Inception
+Showtime: 2023-07-02 14:00
+Seat Number: Row 1, Seat2

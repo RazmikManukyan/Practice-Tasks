@@ -1,0 +1,3 @@
+/Users/cod_republic_lab/CLionProjects/Ticket Booking System for Cinema/cmake-build-debug/CMakeFiles/Ticket_Booking_System_for_Cinema.dir
+/Users/cod_republic_lab/CLionProjects/Ticket Booking System for Cinema/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cod_republic_lab/CLionProjects/Ticket Booking System for Cinema/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+Ticket Details
+---------------------------
+Movie Title: The Matrix
+Showtime: 2023-07-01 18:00
+Seat Number: Row 1, Seat1
