@@ -1,0 +1,22 @@
+Ride Receipt
+---------------------------
+Taxi Number: T001
+Driver Name: 
+User Name: Ann
+User Contact Info: ann@example.com
+Distance Traveled: 10.5 km
+Start Time: 2023-07-12 10:00:00
+End Time: 2023-07-12 10:30:00
+Fare: $18.9
+---------------------------
+Ride Receipt
+---------------------------
+Taxi Number: T002
+Driver Name: 
+User Name: Jane
+User Contact Info: jane@example.com
+Distance Traveled: 15 km
+Start Time: 2023-07-09 13:00
+End Time: 2023-07-09 14:00
+Fare: $45
+---------------------------
