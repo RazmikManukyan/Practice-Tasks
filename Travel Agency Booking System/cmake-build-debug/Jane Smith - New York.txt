@@ -1,0 +1,6 @@
+Ticket Details: 
+-----------------------
+Travel Packet: New York
+Itinerary: Day 1: Statue of Liberty, Day 2: Times Square
+Passenger Name: Jane Smith
+Passenger Contact Info: 

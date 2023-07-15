@@ -1,0 +1,6 @@
+Ticket Details: 
+-----------------------
+Travel Packet: Paris
+Itinerary: Day 1: Eiffel Tower, Day 2: Louvre Museum
+Passenger Name: John Doe
+Passenger Contact Info: 
