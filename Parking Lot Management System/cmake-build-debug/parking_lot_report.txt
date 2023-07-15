@@ -1,0 +1,9 @@
+Parking Lot Report:
+------------------
+Compact Spaces: 1
+Regular Spaces: 1
+Large Spaces: 1
+Occupied Spaces: 1
+Compact Profit: $0
+Regular Profit: $7
+Large Profit: $0
