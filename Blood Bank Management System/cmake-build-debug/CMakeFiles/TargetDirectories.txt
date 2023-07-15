@@ -1,0 +1,3 @@
+/Users/cod_republic_lab/CLionProjects/Blood Bank Management System/cmake-build-debug/CMakeFiles/Blood_Bank_Management_System.dir
+/Users/cod_republic_lab/CLionProjects/Blood Bank Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cod_republic_lab/CLionProjects/Blood Bank Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

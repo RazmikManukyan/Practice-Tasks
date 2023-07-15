@@ -1,0 +1,26 @@
+Monthly Report: 7/2023
+----------------------------------
+Blood type: A+
+Count: 2
+Date: Fri Jul 14 16:18:12 2023
+
+Type: Donation
+------------------------------------
+Blood type: O-
+Count: 1
+Date: Fri Jul 14 16:18:12 2023
+
+Type: Donation
+------------------------------------
+Blood type: A+
+Count: 1
+Date: Fri Jul 14 16:18:12 2023
+
+Type: Utilization
+------------------------------------
+Blood type: B-
+Count: 2
+Date: Fri Jul 14 16:18:12 2023
+
+Type: Utilization
+------------------------------------
