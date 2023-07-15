@@ -1,0 +1,8 @@
+Ticket detail: 
+----------------
+Flight number: FL001
+Origin: City A
+Destination: City B
+Departure Date/Time2023-07-01
+Passenger name: Joe
+Passenger Contact Info: joe@example.com
