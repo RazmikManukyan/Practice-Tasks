@@ -1,0 +1,7 @@
+Delivery Receipt
+-------------------------------
+Item: Item 1
+Origin: A
+Delivery: B
+Estimated Delivery Time: B
+StatusPending
