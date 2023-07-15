@@ -1,0 +1,4 @@
+/Users/cod_republic_lab/Dropbox/Mac/Desktop/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/cod_republic_lab/Dropbox/Mac/Desktop/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/cod_republic_lab/CLionProjects/Fitness Club Membership System" -B "/Users/cod_republic_lab/CLionProjects/Fitness Club Membership System/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/cod_republic_lab/CLionProjects/Fitness Club Membership System/cmake-build-debug

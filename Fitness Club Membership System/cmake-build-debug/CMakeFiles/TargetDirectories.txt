@@ -1,0 +1,3 @@
+/Users/cod_republic_lab/CLionProjects/Fitness Club Membership System/cmake-build-debug/CMakeFiles/FCMS.dir
+/Users/cod_republic_lab/CLionProjects/Fitness Club Membership System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cod_republic_lab/CLionProjects/Fitness Club Membership System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
