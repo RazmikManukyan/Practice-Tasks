@@ -1,0 +1,6 @@
+Reservation Bill:
+Room number: 101
+Room type: Single
+Customer: Joe
+Contact info: joe@example.com
+Total cost: $100
